@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2aa0755-2cdf-4e2d-8645-976c384b296b" name="Default Changelist" comment="" />
+    <list default="true" id="b2aa0755-2cdf-4e2d-8645-976c384b296b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,15 +21,13 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/description.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1117" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
+            <state>
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -38,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/captiongenerator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-913">
+            <state>
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -49,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/BLEU.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1955">
+            <state>
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -60,7 +60,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UnSupervisedLearning/Source/K-Means.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="407">
               <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
@@ -318,7 +318,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.07364976" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07364976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -340,71 +340,42 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/descriptions.txt">
+    <entry file="file://$PROJECT_DIR$/descriptions.txt" />
+    <entry file="file://$PROJECT_DIR$/tokenizer.pkl" />
+    <entry file="file://$PROJECT_DIR$/features.pkl" />
+    <entry file="file://$PROJECT_DIR$/model.py" />
+    <entry file="file://$PROJECT_DIR$/description.py" />
+    <entry file="file://$PROJECT_DIR$/extractfeatures.py" />
+    <entry file="file://$PROJECT_DIR$/captiongenerator.py" />
+    <entry file="file://$PROJECT_DIR$/BLEU.py" />
+    <entry file="file://$PROJECT_DIR$/UnSupervisedLearning/descriptions.txt" />
+    <entry file="file://$PROJECT_DIR$/UnSupervisedLearning/K-Means.py" />
+    <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/description.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tokenizer.pkl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features.pkl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model.py">
+    <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="146" column="8" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
+        <state>
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/description.py">
+    <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/captiongenerator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extractfeatures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captiongenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="69" column="53" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
+        <state>
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BLEU.py">
+    <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/BLEU.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state>
           <folding>
             <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnSupervisedLearning/descriptions.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnSupervisedLearning/K-Means.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -421,41 +392,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/description.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1117" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/captiongenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-913">
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Show and Tell Model/Source/BLEU.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1955">
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UnSupervisedLearning/Source/K-Means.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="407">
           <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
